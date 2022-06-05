@@ -1,15 +1,15 @@
 import React from 'react';
 import {View, Text} from 'react-native';
 
-import styles from 'screens/Welcome/styles';
+import styles from 'screens/WelcomeScreen/styles';
 
 const Welcome = () => {
   return (
     <View style={styles.container}>
-      <Text>
-        Hello!
+      <Text style={styles.textHello}>
+        Ciao!
       </Text>
-      <Text>
+      <Text style={styles.textWelcome}>
         Welcome to the React Native configured project template
       </Text>
     </View>

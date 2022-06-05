@@ -1,7 +1,7 @@
 import React from 'react';
 import {SafeAreaView, StyleSheet} from 'react-native';
 
-import Welcome from 'screens/Welcome';
+import Welcome from 'screens/WelcomeScreen';
 
 const App = () => {
   return (

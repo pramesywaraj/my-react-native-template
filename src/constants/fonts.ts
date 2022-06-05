@@ -1,0 +1,10 @@
+export const FONT_LATO_REGULAR = 'Lato-Regular';
+export const FONT_LATO_LIGHT = 'Lato-Light';
+export const FONT_LATO_LIGHT_ITALIC = 'Lato-LightItalic';
+export const FONT_LATO_THIN = 'Lato-Thin';
+export const FONT_LATO_THIN_ITALIC = 'Lato-ThinItalic';
+export const FONT_LATO_BOLD = 'Lato-Bold';
+export const FONT_LATO_BOLD_ITALIC = 'Lato-BoldItalic';
+export const FONT_LATO_BLACK = 'Lato-Black';
+export const FONT_LATO_BLACK_ITALIC = 'Lato-BlackItalic';
+export const FONT_LATO_ITALIC = 'Lato-Italic';
